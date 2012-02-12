@@ -1,0 +1,8 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: electric
+roslaunch:
+  uris: {host_robot__56572: 'http://robot:56572/'}
+rosversion: 1.6.5
+run_id: ad6b2c28-5532-11e1-aab0-64273710edd8
